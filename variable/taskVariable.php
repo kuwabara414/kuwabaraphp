@@ -17,11 +17,11 @@
     <title>taskVariable</title>
 </head>
 <body>
-    <p><?php echo($apple); ?></p>
-    <p><?php echo($orange); ?></p>
-    <p><?php echo($price); ?></p>
-    <p><?php echo($priceInclTax); ?></p>
-    <p><?php echo($floots); ?></p>
+    <p><?php echo("1. " . $apple); ?></p>
+    <p><?php echo("2. " . $orange); ?></p>
+    <p><?php echo("3. " . $price); ?></p>
+    <p><?php echo("4. " . $priceInclTax); ?></p>
+    <p><?php echo("5. " . $floots); ?></p>
 </body>
 <body>
 </body>
